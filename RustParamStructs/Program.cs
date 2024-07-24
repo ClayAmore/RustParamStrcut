@@ -59,6 +59,11 @@ namespace RustParamStruct
 
             mod.Append("defs");
 
+            if (!Directory.Exists(Path.Join(distDir, "defs")))
+            {
+                Directory.CreateDirectory(Path.Join(distDir, "defs"));
+            }
+
             var def_mod_rs = new StringBuilder();
             var mod_rs = new StringBuilder("pub mod defs;\n");
             foreach (var file in files)

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RustParamStructs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b14ee05dd26105721c993f044df08f18a3f30df")]
 [assembly: System.Reflection.AssemblyProductAttribute("RustParamStructs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RustParamStructs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

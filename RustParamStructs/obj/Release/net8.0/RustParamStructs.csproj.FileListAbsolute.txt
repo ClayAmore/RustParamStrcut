@@ -11,6 +11,7 @@ C:\ModdingTools\RustParamStructs\RustParamStructs\obj\Release\net8.0\RustParamSt
 C:\ModdingTools\RustParamStructs\RustParamStructs\obj\Release\net8.0\RustParamStructs.AssemblyInfoInputs.cache
 C:\ModdingTools\RustParamStructs\RustParamStructs\obj\Release\net8.0\RustParamStructs.AssemblyInfo.cs
 C:\ModdingTools\RustParamStructs\RustParamStructs\obj\Release\net8.0\RustParamStructs.csproj.CoreCompileInputs.cache
+C:\ModdingTools\RustParamStructs\RustParamStructs\obj\Release\net8.0\RustParamStructs.sourcelink.json
 C:\ModdingTools\RustParamStructs\RustParamStructs\obj\Release\net8.0\RustParamStructs.csproj.CopyComplete
 C:\ModdingTools\RustParamStructs\RustParamStructs\obj\Release\net8.0\RustParamStructs.dll
 C:\ModdingTools\RustParamStructs\RustParamStructs\obj\Release\net8.0\refint\RustParamStructs.dll
